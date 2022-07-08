@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'zqshare_Example' do
+  pod 'zqshare', :path => '../'
+
+  target 'zqshare_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

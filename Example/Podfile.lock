@@ -1,0 +1,16 @@
+PODS:
+  - zqshare (0.1.0)
+
+DEPENDENCIES:
+  - zqshare (from `../`)
+
+EXTERNAL SOURCES:
+  zqshare:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  zqshare: dd49d612d0676b8fc766fd1db21f82abb1c81076
+
+PODFILE CHECKSUM: 6d362e5510bfc3e56a63b640a9722e4766fac9c1
+
+COCOAPODS: 1.11.3
